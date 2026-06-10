@@ -9,6 +9,7 @@
 2. feat: add task journal script
 3. data: add sample tasks
 4. docs: add report and test notes
+5. docs: update usage information
 
 ## Что получилось
 В проекте создала папку student-task-journal. В ней находяятся 3 папки (data, docs, src), 
